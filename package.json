@@ -1,0 +1,16 @@
+{
+  "name": "livetvpro-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Live TV Pro",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js",
+    "dev": "node api/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "keywords": ["nodejs", "express", "api", "livetv"],
+  "author": "Mehedi Hasan",
+  "license": "MIT"
+}
